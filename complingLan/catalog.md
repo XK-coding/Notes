@@ -13,3 +13,7 @@
 
 
 ## 3.5 标志位寄存器ZF,PF,SF,CF,OF
+
+
+
+## 3.6 条件判断语句cmp，je，ja，jb及adc、sbb指令
