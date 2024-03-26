@@ -32,3 +32,7 @@
 
 
 ## 4.3 函数call，ret指令
+
+
+
+## 4.4 call far ptr和retf指令，本质是栈、goto指令
