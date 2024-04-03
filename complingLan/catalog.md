@@ -36,3 +36,15 @@
 
 
 ## 4.4 call far ptr和retf指令，本质是栈、goto指令
+
+
+
+## 4.5 代码段、数据段、栈段，dup指令
+
+
+
+## 4.6 offset指令，jmp short指令，far，dword ptr各种跳转指令
+
+
+
+## 4.7 数组的读取和写入，type指令和一些杂项
